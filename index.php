@@ -1,2 +1,3 @@
 <?php
-header('Location: http://localhost/reservasi/admin');
+header('Location: http://localhost/UAS/admin');
+?>
